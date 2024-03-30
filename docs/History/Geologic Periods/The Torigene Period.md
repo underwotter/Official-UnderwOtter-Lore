@@ -1,4 +1,4 @@
-# c. 3.02 Ma - Present
+## c. 3.02 Ma - Present
 
 ## Summary
 
