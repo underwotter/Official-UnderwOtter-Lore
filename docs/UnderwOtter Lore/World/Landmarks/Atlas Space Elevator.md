@@ -1,0 +1,1 @@
+The Atlas Space Elevator is the world's first and currently only space elevator, located on the man-made Atlas Island, just offshore from [[Arcadia]], [[Metridium Island]].

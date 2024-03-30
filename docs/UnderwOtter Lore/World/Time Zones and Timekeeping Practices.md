@@ -1,0 +1,3 @@
+For the purpose of Timekeeping, 24 meridians are drawn on the planet, with each meridian assigned a time zone, in 1 hour increments. Each Island (In most cases) uses the time zone from the nearest meridian. There are no islands which use multiple time zones. This can lead to some geographic curiosities, including some islands which are an hour ahead of behind landmasses which are directly to the north or south.
+
+Many sources will give times in both local time (That is, the time dictated by an island's time zone), and in absolute time, which is the time zone derived from the meridian which passes through {}, the westernmost city in the world. Therefore, absolute time is the same everywhere in the world.
