@@ -1,4 +1,3 @@
-#RachelRhodes #UnitedStates #Wolf #OcosaseGroup #CodeOfLife
 ## Personal Info
 
 Full Name: Rachel ___ Rhodes

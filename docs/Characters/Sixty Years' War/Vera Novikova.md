@@ -1,4 +1,3 @@
-#VeraNovikova #Wolf #Volkovia #SixtyYearsWar 
 ## Personal Info
 
 Full Name: Vera Cardenieva Novikova

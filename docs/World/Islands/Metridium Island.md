@@ -1,4 +1,3 @@
-#UnitedStates
 Country: [[{United States of America}]]
 Island Group: [[Cascadia Group]]
 

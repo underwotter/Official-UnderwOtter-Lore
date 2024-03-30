@@ -1,4 +1,3 @@
-#BrookeVentana #Aardwolf #UnitedStates #PhoenixSquad
 ## Personal Info
 
 Full Name: Brooklyn Victoria Ventana

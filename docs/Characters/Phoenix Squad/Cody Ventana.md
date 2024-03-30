@@ -1,4 +1,3 @@
-#CodyVentana #Aardwolf #UnitedStates #PhoenixSquad
 ## Personal Info
 
 Full Name: Cody {} Ventana

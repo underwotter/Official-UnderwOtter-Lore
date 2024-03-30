@@ -1,4 +1,3 @@
-#WulfDelmar #SeaOtter #UnitedStates #PhoenixSquad #OncosaseGroup #CodeOfLife 
 ## Personal Info
 
 Full Name: Wulfric Olezka Delmar

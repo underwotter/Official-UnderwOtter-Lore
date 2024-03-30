@@ -1,4 +1,3 @@
-#HaydenCarskaddon #Coyote #UnitedStates #PhoenixSquad
 ## Personal Info
 
 Full Name: Hayden {} Carskaddon

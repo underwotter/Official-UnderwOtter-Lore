@@ -1,4 +1,3 @@
-#KatAarden #Dog #UnitedStates #OncosaseGroup #CodeOfLife
 ## Personal Info
 
 Full Name: Katrina {} Aarden

@@ -1,4 +1,3 @@
-#RobbStovall #Cheetah #UnitedStates #PhoenixSquad #CodeOfLife
 ## Personal Info
 
 Full Name: Robert Mateo Stovall

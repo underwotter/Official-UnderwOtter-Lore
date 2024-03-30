@@ -1,4 +1,3 @@
-#DannyWeaver #MuleDeer #UnitedStates #PhoenixSquad
 ## Personal Info
 
 Full Name: Daniel {} Weaver

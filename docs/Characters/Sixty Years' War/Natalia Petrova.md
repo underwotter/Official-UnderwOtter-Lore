@@ -1,4 +1,3 @@
-#NataliaPetrova #SeaOtter #Volkovia #SixtyYearsWar
 ## Personal Info
 
 Full Name: Natalia Vladimirova Petrova

@@ -1,4 +1,3 @@
-#FedorKostoku #Tiger #Volkovia
 ## Personal Info
 
 Full Name: Fedor {}vich Kostoku

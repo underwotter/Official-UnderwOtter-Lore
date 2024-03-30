@@ -1,4 +1,3 @@
-#UnitedStates
 ## History
 
 {The United States of America} was officially established on 08 {Month12}, 1198, as a union of seven Islands.

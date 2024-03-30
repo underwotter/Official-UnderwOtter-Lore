@@ -1,4 +1,3 @@
-#Japan
 Country: [[{Japan}]]
 Island Group: Okasano Group
 
