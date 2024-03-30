@@ -1,7 +1,7 @@
 site_name: Official UnderwOtter Lore
 
 theme:
-    name: 'material'
+    name: 'dracula'
     palette:
 
     # Light mode
