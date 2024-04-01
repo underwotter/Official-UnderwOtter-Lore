@@ -1,5 +1,6 @@
-Country: [[{United States of America}]]
+Country: [[The Federated Island Republics of {The United States of America}]]
 Island Group: [[Cascadia Group]]
+## Description
 
 Cascade Island is a moderately sized island in the Cascade group, in [[The Federated Island Republics of {The United States of America}]].
 

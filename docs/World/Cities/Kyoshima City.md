@@ -1,1 +1,0 @@
-Kyoshima City is a large city situated on [[Kyoshima Island]], [[{Japan}]]. The city is the second largest city in the world by population size in the modern day, and covers most of the windward side of the Island.

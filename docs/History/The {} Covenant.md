@@ -1,5 +1,0 @@
-The {} Covenant was a historically significant accord made between the Elk of the City of [[{Sparta}]] and the Wolves of the [[{Athens}]], which were both located on what is now modern-day [[Arcoba Island]], [[{Italy}]]. The covenant prohibited predation on the Elk by the Wolves, marking it as one of the world's first prohibitions on preying upon other sapient species. Similar agreements would come to be made worldwide over the next several centuries, marking the end of [[The Voyaging Age]], and the beginning of the [[The {} Age]]
-
-As a result of the agreement, the wolves of {} switched to a diet primarily composed of fish, supplemented by high-protein agricultural crops such as peas, lentils, and beans. The wolves on the island would go on to make many key advancements in [[Aquaculture]], resulting in a population boom. In the following centuries, [[{Athens}]] would be a dominating power in the [[{} Sea]]
-
-The covenant was made circa 1830 B.C., and a series of granite pillars were erected to commemorate the agreement, called [[The {} Steles]].

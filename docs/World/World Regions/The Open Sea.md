@@ -1,3 +1,3 @@
-Nearly all of the islands and landmasses of {} are contained within one hemisphere of the planet. The other half of the planet is an unbroken open sea. Due to the lack of land and available natural resources, the Open Sea has been avoided for most of history, with most maritime traffic limited to the archipelago hemisphere. The first voyage to completely circumnavigate the globe was performed in 
+Nearly all of the islands and landmasses of Loama are contained within one hemisphere of the planet. The other half of the planet is an unbroken open sea. Due to the lack of land and available natural resources, the Open Sea has been avoided for most of history, with most maritime traffic limited to the archipelago hemisphere. The first voyage to completely circumnavigate the globe was performed in 
 
 In the 1310s, imaging satellites were launched into orbit, 

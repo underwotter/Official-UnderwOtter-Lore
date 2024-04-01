@@ -1,16 +1,14 @@
-Country: [[{United States of America}]]
+Country: [[The Federated Island Republics of {The United States of America}]]
 Island Group: [[Cascadia Group]]
+## Description
 
-Metridium Island is a large, temperate island in [[The Federated Island Republics of {The United States of America}]], and the largest island of the Cascadia Group.
-
-The island receives frequent rain, due to its location at the terminus of the eastern {}, which brings warm water north from the equator, which 
+Metridium Island is a large, temperate island in [[The Federated Island Republics of {The United States of America}]], and the second-largest island of the Cascadia Group.
 
 Archaeological research on Metridium Island has identified the island as the origin of the Wolf species.
 ## Species Origins
 
-[[Wolf]]
-
+[[Wolf]] (Metridium Wolf)
 ## US District Information
 
-Aliased Islands:
+Aliased Islands: None
 Number of Representatives: 8

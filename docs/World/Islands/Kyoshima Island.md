@@ -1,5 +1,6 @@
 Country: [[{Japan}]]
-Island Group: Okasano Group
+Island Group: [[Okasano Group]]
+## Description
 
 Kyoshima Island is a moderately-sized temperate island belonging to [[{Japan}]]. Most of the Island's surface area is covered by the eponymous [[Kyoshima City]].
 
