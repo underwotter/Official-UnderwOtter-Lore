@@ -1,0 +1,3 @@
+Several species are known to have independently developed sailing traditions prior to [[The Voyaging Age]], including [[Wolf|Wolves]]. While these traditions appear to have lasted hundreds of years, they suddenly came to an abrupt end during the Pre-Voyaging Age Collapse. The cause of the collapse is still a subject of scholarly debate, though some have hypothesized a devastating worldwide tsunami as the root cause.
+
+The Pre-Voyaging Age Collapse was eventually followed by [[The Voyaging Age]], wherein most species would develop sailing technology. Writing systems would emerge soon thereafter, marking the beginning of recorded history.

@@ -1,1 +1,0 @@
-The region of the planet between the [[Tropic of Lycaos]] at 24.5 degrees north, and the [[Tropic of Aetos]] at 24.5 degrees south, and surrounding the equator to both the north and south is called "The Tropics." The tropics are characterized by high temperatures due to the abundance of sunlight

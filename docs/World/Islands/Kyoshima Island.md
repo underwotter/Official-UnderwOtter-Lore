@@ -1,11 +1,11 @@
-Country: [[{Japan}]]
-Island Group: [[Okasano Group]]
+## Summary
+
+Country: [[Kawatochi]]  
+Island Group: [[Okasano Group]]  
 ## Description
 
-Kyoshima Island is a moderately-sized temperate island belonging to [[{Japan}]]. Most of the Island's surface area is covered by the eponymous [[Kyoshima City]].
-
-The island is connected to the nearby [[Okasano Island]] by the [[{} Tunnel]], a subterranean tunnel that runs beneath the [[{} Strait]]
+Kyoshima Island is a moderately small island belonging to [[Kawatochi]]. [[Kyoshima City]], the largest city in the world, covers most of the islands surface area, which is mostly flat lowlands. Kyoshima Island is connected to [[Okasano Island]] in the north by the [[Shikare Tunnel]].
 ## Species Origins
 
-[[Dog]] (Akita Inu)
-[[Tanuki]]
+_Canis familiaris kyoshima_ ([[Dog]]; Kyoshima Inu)
+## Kawatochi Prefectures

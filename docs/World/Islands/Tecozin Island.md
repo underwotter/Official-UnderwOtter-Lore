@@ -1,12 +1,14 @@
-Country: [[The Federated Island Republics of {The United States of America}]]
+## Summary
+
+Country: [[The Federated Island Republics of Lorenzia]]
 Island Group: [[Federation Group]]
 ## Description
 
-Tecozin Island is a small island in [[The Federated Island Republics of {The United States of America}]]. The island is named after General Frederick Tecozin, who was an admiral during the Federated Republics' War of Independence.
+Tecozin Island is one of the original seven islands that formed the [[The Federated Island Republics of Lorenzia]]. The island has several moderately large cities, including [[Abbetton]], which is considered the birthplace of [[The Federated Island Republics of Lorenzia]]. The Island has several areas of low-lying hills, which cover a large amount of the island's surface area. The rest of the island is mostly comprised of swamps and marshes near sea level.
 ## Species Origins
 
-[[Wolf]] (Metridium Wolf)
-## US District Information
+_Lynx canadensis_ ([[Tecozin Lynx]])
+## FIR District Information
 
-Aliased Islands: None
-Number of Representatives: 8
+Aliased Islands:
+Number of Representatives: 6

@@ -1,15 +1,15 @@
-Country: [[The Federated Island Republics of {The United States of America}]]
-Island Group: [[Torshova Group]]
+## Summary
+
+Country: [[The Federated Island Republics of Lorenzia]]  
+Island Group: [[Torshova Group]]  
 ## Description
 
-Kokotak Island is a small island in [[The Federated Island Republics of {The United States of America}]]. The island borders [[The Open Sea]] to the east, and is the easternmost island of the {} cluster. The island lies north of the [[Ekleiptic of Lycaos]], placing it within [[The Poles|Polar Waters]]
-
-This island, along with the rest of the [[Torshova Group]] belonging to the [[The Volkovian Federation]], has been identified as the main origin islands of the [[Sea Otter]] Species.
+Kokotak Island is a small island belonging to [[The Federated Island Republics of Lorenzia]]. Despite belonging to different countries, Kokotak Island and [[Torshova Island]] are very close to each other, being visible from each other in some locations on each island. As the island is north of [[The Ekleiptic of Lycaos]], there is a period of several weeks during the winter wherein the sun never rises above the horizon on Kokotak Island.
 ## Species Origins
 
-[[Sea Otter]]
-[[Dog]] (Kokotak Husky)
-## US District Information
+_Enhydra lutris lutris_ ([[Sea Otter|Eastern Sea Otter]])  
+_Canis familiaris kokotak_ ([[Dog]]; Kokotak Husky)  
+## FIR District Information
 
-Aliased Islands: None
-Number of Representatives: 1
+Aliased Islands: Torvik Island
+Number of Congressional Representatives: 1

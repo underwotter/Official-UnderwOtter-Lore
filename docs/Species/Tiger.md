@@ -1,15 +1,15 @@
 ## Summary
 
 Binomial Name: _Panthera tigris_
-
-Subspecies:
-_Panthera tigris altaica_ ({} Tiger)
-_Panthera tigris tigris_ ({} Tiger)
-
-Origin: 
-{} Island ({} Tiger)
-{} Island ({} Tiger)
-
+##### Subspecies:  
+_Panthera tigris tigris_ (Narampur Tiger)
+_Panthera tigris altaica_ (Retlov Tiger)
+##### Origin:
+[[Narampur Island]] (Narampur Tiger)
+[[Retlov Island]] (Retlov Tiger)
 ## History and Description
 
-It is unclear how two closely related subspecies of tiger (), but modern scholarship has hypothesized an unidentified prehistoric sailing tradition that was later lost
+Two closely related tiger subspecies are recorded: The Arampur Tiger is found on [[Narampur Island]], and the Retlov Tiger is found on [[Retlov Island]]. There is currently a large amount of scholarly debate over how two disparate subspecies came to be found on two islands so distant from each other.
+## Notable Individuals
+
+[[Fedor Kostoku]]

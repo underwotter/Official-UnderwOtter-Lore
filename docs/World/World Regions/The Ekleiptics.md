@@ -1,1 +1,0 @@
-The regions of the planet which are between the Tropic and the Ekleiptic in both the north and south are called "The Ekleiptics." This region is generally marked by temperate weather, moderate sunlight, and a large degree of seasonal variation throughout the year.

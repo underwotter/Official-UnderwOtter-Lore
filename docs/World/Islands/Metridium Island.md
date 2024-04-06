@@ -1,14 +1,14 @@
-Country: [[The Federated Island Republics of {The United States of America}]]
-Island Group: [[Cascadia Group]]
+## Summary
+
+Country: [[The Federated Island Republics of Lorenzia]]  
+Island Group: [[Cascadia Group]]  
 ## Description
 
-Metridium Island is a large, temperate island in [[The Federated Island Republics of {The United States of America}]], and the second-largest island of the Cascadia Group.
-
-Archaeological research on Metridium Island has identified the island as the origin of the Wolf species.
+Metridium Island is a moderately sized island belonging to [[The Federated Island Republics of Lorenzia]]. Unlike many of the other islands in the Cascadia Group, Metridium Island has many low-lying areas of fertile farmland. [[Arcadia]], one of the world's largest cities, is located on the western side of Metridium Island, covering much of the island's surface area. Just offshore from [[Arcadia]] is [[Atlas Island]], the site of the [[Atlas Space Elevator]], the world's only space elevator.
 ## Species Origins
 
-[[Wolf]] (Metridium Wolf)
-## US District Information
+_Canis lupus_ ([[Wolf]])
+## FIR District Information
 
-Aliased Islands: None
-Number of Representatives: 8
+Aliased Islands: [[Atlas Island]]
+Number of Congressional Representatives: 8

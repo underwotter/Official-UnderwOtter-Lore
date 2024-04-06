@@ -1,12 +1,14 @@
-Country: [[The Federated Island Republics of {The United States of America}]]
-Island Group: [[Cascadia Group]]
+## Summary
+
+Country: [[The Federated Island Republics of Lorenzia]]  
+Island Group: [[Cascadia Island]]  
 ## Description
 
-Cascade Island is a moderately sized island in the Cascade group, in [[The Federated Island Republics of {The United States of America}]].
+Cascadia Island is a moderately large island belonging to [[The Federated Island Republics of Lorenzia]]. While there are numerous cities situated along the coastline of the island, the interior of the island is sparsely populated due to the mountainous terrain. The mountains of the island are volcanic, occasionally causing minor earthquakes on the island
+## Species Origins
 
-Like the larger [[Metridium Island]], Cascade Island receives frequent rainfall
+_Urocyon cinereoargenteus_ ([[Gray Fox]])
+## FIR District Information
 
-## US District Information
-
-Aliased Islands:
-Number of Representatives:
+Aliased Islands: 
+Number of Congressional Representatives: 4
