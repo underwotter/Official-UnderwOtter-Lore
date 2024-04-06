@@ -10,5 +10,5 @@ Phoenix Island is a large island belonging to [[The Federated Island Republics o
 _Canis latrans_ ([[Coyote]]) 
 ## FIR District Information
 
-Aliased Islands:
-Number of Representatives: 5
+Aliased Islands:  
+Number of Representatives: 5  

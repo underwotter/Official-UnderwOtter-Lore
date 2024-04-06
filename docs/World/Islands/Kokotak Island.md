@@ -11,5 +11,5 @@ _Enhydra lutris lutris_ ([[Sea Otter|Eastern Sea Otter]])
 _Canis familiaris kokotak_ ([[Dog]]; Kokotak Husky)  
 ## FIR District Information
 
-Aliased Islands: Torvik Island
-Number of Congressional Representatives: 1
+Aliased Islands: Torvik Island  
+Number of Congressional Representatives: 1  

@@ -9,5 +9,5 @@ Mateka Island is the largest Island in the world. Unlike most islands which are 
 Most of the island is covered in grasslands and savannas, with several notable but isolated volcanic peaks in the island. The climate is hot and dry, though the windward coast of the sails has a pleasant tropical climate, and is a popular vacation area.
 ## Species Origins
 
-_Acinonyx jubatus jubatus_ ([[Cheetah|Mateka Cheetah]])
-_Proteles cristatus_ ([[Aardwolf]])
+_Acinonyx jubatus jubatus_ ([[Cheetah|Mateka Cheetah]])  
+_Proteles cristatus_ ([[Aardwolf]])  

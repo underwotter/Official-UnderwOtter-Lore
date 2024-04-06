@@ -10,5 +10,5 @@ Metridium Island is a moderately sized island belonging to [[The Federated Islan
 _Canis lupus_ ([[Wolf]])
 ## FIR District Information
 
-Aliased Islands: [[Atlas Island]]
-Number of Congressional Representatives: 8
+Aliased Islands: [[Atlas Island]]  
+Number of Congressional Representatives: 8  

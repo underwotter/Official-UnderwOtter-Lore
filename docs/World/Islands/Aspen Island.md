@@ -10,5 +10,5 @@ Aspen Island is a moderately-sized temperate island situated in the [[Moffat Gro
 _Ovis canadensis_ [[Bighorn Sheep]]
 ## FIR District Information
 
-Aliased Islands: 
-Number of Congressional Representatives: 1
+Aliased Islands:   
+Number of Congressional Representatives: 1  

@@ -2,8 +2,8 @@
 
 Binomial Name: _Canis familiaris_  
 ##### Subspecies:  
-_Canis familiaris akita_ (Akita Inu)  
-_Canis familiaris shiba_ (Shiba Inu)  
+_Canis familiaris kyoshima_ (Kyoshima Inu)  
+_Canis familiaris okasano_ (Okasano Inu)  
 _Canis familiaris kokotak_ (Kokotak Husky)  
 ##### Origin:
 Various. [[Metridium Island]] hypothesized as point of origin.  

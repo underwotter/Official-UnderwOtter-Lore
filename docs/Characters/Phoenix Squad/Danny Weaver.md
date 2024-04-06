@@ -1,9 +1,9 @@
 ## Personal Info
 
 Full Name: Daniel Mason Weaver  
-Species: _Odocoileus hemionus_ [[Mule Deer]]
+Species: _Odocoileus hemionus_ [[Mule Deer]]  
 Nationality: [[The Federated Island Republics of Lorenzia]]  
-Birthplace: [[Abbetton]], [[Tecozin Island]]
+Birthplace: [[Abbetton]], [[Tecozin Island]]  
 Birthday: 08 Zenith  
 Blood Type: _O. hemionus_ #3  
 Status: Dead  

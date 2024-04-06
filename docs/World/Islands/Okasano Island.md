@@ -9,5 +9,5 @@ Okasano Island is a moderately sized island belonging to [[Kawatochi]]. There ar
 Okasano Island is also home to Camp Graham, an FIR Marine Base Camp.
 ## Species Origins
 
-_Canis familiaris okasano_ ([[Dog]]; Okasano Inu)
+_Canis familiaris okasano_ ([[Dog]]; Okasano Inu)  
 ## Kawatochi Prefectures

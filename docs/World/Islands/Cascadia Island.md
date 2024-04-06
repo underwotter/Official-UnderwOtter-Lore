@@ -10,5 +10,5 @@ Cascadia Island is a moderately large island belonging to [[The Federated Island
 _Urocyon cinereoargenteus_ ([[Gray Fox]])
 ## FIR District Information
 
-Aliased Islands: 
-Number of Congressional Representatives: 4
+Aliased Islands:   
+Number of Congressional Representatives: 4  
