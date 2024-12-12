@@ -1,0 +1,1 @@
+The Sea of Lorenzia is a large region of open water with no landmasses directly to the north of the [[Federation Group]]. This oceanic region lends its name directly to [[The Federated Island Republics of Lorenzia]].
